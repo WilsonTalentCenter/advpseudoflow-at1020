@@ -1,6 +1,6 @@
-<mxfile version="13.6.10" type="github" host="app.diagrams.net" modified="2020-09-14T17:33:55.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="_VSP6O5FF277IR-yyuW2">
+<mxfile version="13.6.10" type="github" host="app.diagrams.net" modified="2020-09-14T17:34:45.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363" etag="pYaXXchww0ONUpoUnipj">
   <diagram id="qUnon9rWK1T8DNUqRCIi" name="Page-1">
-    <mxGraphModel grid="0" dx="508" dy="575" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" background="#114B5F">
+    <mxGraphModel grid="0" dx="1016" dy="1150" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" background="#114B5F">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lZdONFPbMPYTnM9vWjer-73" parent="1" target="lZdONFPbMPYTnM9vWjer-72" source="lZdONFPbMPYTnM9vWjer-74" edge="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;">
-          <mxGeometry as="geometry" relative="1" />
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="417" y="408" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lZdONFPbMPYTnM9vWjer-66" value="is the input a number" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1">
           <mxGeometry as="geometry" x="351" y="498" width="80" height="80" />
@@ -177,7 +181,7 @@
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
         <mxCell id="lZdONFPbMPYTnM9vWjer-72" value="Calculate Balance" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1">
-          <mxGeometry as="geometry" x="388" y="338" width="120" height="60" />
+          <mxGeometry as="geometry" x="365" y="315" width="120" height="60" />
         </mxCell>
         <mxCell id="lZdONFPbMPYTnM9vWjer-74" value="Yes" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E4FDE1;" vertex="1">
           <mxGeometry as="geometry" x="397" y="453" width="40" height="20" />
@@ -192,10 +196,10 @@
           <mxGeometry as="geometry" relative="1" />
         </mxCell>
         <mxCell id="lZdONFPbMPYTnM9vWjer-76" value="Show balance per year" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1">
-          <mxGeometry as="geometry" x="394" y="234" width="120" height="60" />
+          <mxGeometry as="geometry" x="392" y="191" width="120" height="60" />
         </mxCell>
         <mxCell id="lZdONFPbMPYTnM9vWjer-78" value="End" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" vertex="1">
-          <mxGeometry as="geometry" x="401" y="107" width="120" height="80" />
+          <mxGeometry as="geometry" x="361" y="36" width="120" height="80" />
         </mxCell>
       </root>
     </mxGraphModel>
